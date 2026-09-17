@@ -46,3 +46,4 @@ app.*.map.json
 
 # Supabase keys are passed with --dart-define, never committed.
 .env
+run.sh
